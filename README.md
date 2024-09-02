@@ -54,4 +54,4 @@ plt.show()
 
 ### RESULT:
 
-####     Thus we have successfully implemented the auto correlation function in python.
+####     Thus auto correlation function in python is successfully implemented.
